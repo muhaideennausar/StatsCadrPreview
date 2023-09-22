@@ -13,7 +13,7 @@ This project is a solution to the "Stats Card Preview" challenge on Frontend Men
 - [Credits](#credits)
 
 ## Demo
-You can view the live demo of this project [here.]()
+You can view the live demo of this project [here.](https://stats-card-preview-drab.vercel.app/)
 
 ## Description
 
